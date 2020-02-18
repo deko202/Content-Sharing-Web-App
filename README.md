@@ -12,5 +12,6 @@ This app will help:
 
 * For optimal results please use both print and digital for content distribution. 
 
+View how the app works on Behanced - https://www.behance.net/gallery/69934075/Share-Your-Content-Content-Web-App
 
-View the project UX - https://www.behance.net/gallery/69934075/Share-Your-Content-Content-Web-App
+
