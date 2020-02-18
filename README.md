@@ -1,4 +1,4 @@
-# Share your content - Web App
+# Content Sharing - Web App
 
 A better way for content to be discovered and consumed for time poor business decision makers who need to be served content at the right time and place.
 
