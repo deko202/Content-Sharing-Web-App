@@ -10,7 +10,7 @@ This app will help:
 - Provide a holistic view of customer engagement at an event; and
 - Recommend assets based on interest. 
 
-* For optimal results please use both print and digital for content distribution. 
+** For optimal results please use both print and digital for content distribution. 
 
 View how the app works on Behanced - https://www.behance.net/gallery/69934075/Share-Your-Content-Content-Web-App
 
